@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joaofrossard
 - 👀 I’m interested in building a new website and app
-- 🌱 I’m currently learning how to code 101
+- 🌱 I’m currently learning how to code CIS110
 - 💞️ I’m looking to collaborate on anyting I can help
 - 📫 How to reach me joaofrossard@gmail.com
 
